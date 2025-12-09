@@ -23,7 +23,7 @@ The FM-90s gives you that authentic sound in a modern, easy-to-use package.
 - DOS/AdLib: RAD, DRO, IMF, CMF, A2M, HSC, LAA, and 30+ more
 - Trackers: MOD, XM, S3M, IT, MPTM, and 60+ variants
 
-The [fmconv](https://github.com/yourusername/fmconv) converter runs on your PC and transforms these formats into optimized FM9 files for the player.
+The [fmconv](https://github.com/aarontodd82/fmconv) converter runs on your PC and transforms these formats into optimized FM9 files for the player.
 
 ## Hardware Ecosystem
 
@@ -143,8 +143,8 @@ Created by fmconv from any supported source format.
 
 ## Related Projects
 
-- **[fmconv](https://github.com/yourusername/fmconv)** - Format converter (100+ formats → FM9)
-- **[ESP32-BT-Audio](https://github.com/yourusername/esp32-bt-audio)** - Bluetooth module firmware
+- **[fmconv](https://github.com/aarontodd82/fmconv)** - Format converter (100+ formats → FM9)
+- **[ESP32-BT-Audio](https://github.com/aarontodd82/esp32-bt-audio)** - Bluetooth module firmware
 
 ## License
 
