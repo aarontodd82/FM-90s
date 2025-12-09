@@ -1,0 +1,8 @@
+{
+  "name": "RA8875_SPI1",
+  "version": "1.0.0",
+  "description": "RA8875 display driver for SPI1 on Teensy 4.1 (Original version)",
+  "keywords": "ra8875, display, teensy, spi",
+  "frameworks": "arduino",
+  "platforms": "teensy"
+}

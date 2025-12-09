@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(curl -s https://raw.githubusercontent.com/DhrBaksteen/ArduinoOPL2/master/examples/OPL3Duo/TeensyMidi/TeensyMidi.ino)",
+      "Bash(~/.platformio/penv/Scripts/pio run:*)",
+      "Bash(curl:*)",
+      "Bash(rm:*)",
+      "Read(//c/Users/aaron/OneDrive/Documents/PlatformIO/Projects/Arduino-Teensy-Floppy/**)",
+      "WebSearch",
+      "Bash(python converter_v2.py:*)",
+      "Read(//c/Users/aaron/OneDrive/Documents/PlatformIO/Projects/RA8875-Test/**)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(./adl2vgm.exe:*)",
+      "WebFetch(domain:retrocdn.net)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

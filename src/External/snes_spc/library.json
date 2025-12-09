@@ -1,0 +1,14 @@
+{
+  "name": "snes_spc",
+  "version": "0.9.0",
+  "description": "SNES SPC700 APU emulator",
+  "build": {
+    "srcFilter": [
+      "+<snes_spc/*.cpp>",
+      "+<snes_spc/*.c>",
+      "-<demo>",
+      "-<fast_dsp>"
+    ],
+    "includeDir": "."
+  }
+}

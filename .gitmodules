@@ -1,0 +1,3 @@
+[submodule "tools/adl2vgm/libADLMIDI"]
+	path = tools/adl2vgm/libADLMIDI
+	url = https://github.com/Wohlstand/libADLMIDI.git
